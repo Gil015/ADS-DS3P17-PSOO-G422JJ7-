@@ -1,0 +1,14 @@
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\bin\Debug\net7.0\trabalhoinicio.exe
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\bin\Debug\net7.0\trabalhoinicio.deps.json
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\bin\Debug\net7.0\trabalhoinicio.runtimeconfig.json
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\bin\Debug\net7.0\trabalhoinicio.dll
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\bin\Debug\net7.0\trabalhoinicio.pdb
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.AssemblyInfo.cs
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.dll
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\refint\trabalhoinicio.dll
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.pdb
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\trabalhoinicio.genruntimeconfig.cache
+C:\Users\victo\Desktop\Facul\trabalho POO\trabalhoinicio\obj\Debug\net7.0\ref\trabalhoinicio.dll
